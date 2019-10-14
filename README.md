@@ -7,7 +7,7 @@
 
 ---
 
-### 数据结构
+### 数据结构 (go)
 
 [双向链表](https://github.com/lsyf/lsyf.github.io/issues/4)
 
